@@ -1,0 +1,192 @@
+{
+"data": {
+"questionType": "L_WordDict",
+"currQuestionIdx": "3",
+"containerID": "v3-319451",
+"currStatus": "0",
+"groupID": "E12301",
+"questionGuides": [
+{
+"userQuestionID": "103452",
+"currStatus": "1",
+"sysAnswer": "alien",
+"symbol": "['elɪən]",
+"questionIdx": "0",
+"wordEN": "alien",
+"questionPositions": [
+"0",
+"2",
+"3"
+],
+"wordCN": "陌生的",
+"userAnswer": "alian",
+"sysQuestionID": "T6001001",
+"score": "0",
+"audioUrl": "https://res-audio.langlib.com/wb/un/a/alien.mp3"
+},
+{
+"userQuestionID": "103452",
+"currStatus": "1",
+"sysAnswer": "alien",
+"symbol": "['elɪən]",
+"questionIdx": "1",
+"wordEN": "alien",
+"questionPositions": [
+"0",
+"2",
+"3"
+],
+"wordCN": "陌生的",
+"userAnswer": "alien",
+"sysQuestionID": "T6001001",
+"score": "100",
+"audioUrl": "https://res-audio.langlib.com/wb/un/a/alien.mp3"
+},
+{
+"userQuestionID": "103452",
+"currStatus": "1",
+"sysAnswer": "alien",
+"symbol": "['elɪən]",
+"questionIdx": "2",
+"wordEN": "alien",
+"questionPositions": [
+"0",
+"2",
+"3"
+],
+"wordCN": "陌生的",
+"userAnswer": "alian",
+"sysQuestionID": "T6001001",
+"score": "0",
+"audioUrl": "https://res-audio.langlib.com/wb/un/a/alien.mp3"
+},
+{
+"userQuestionID": "103452",
+"currStatus": "0",
+"sysAnswer": "alien",
+"symbol": "['elɪən]",
+"questionIdx": "3",
+"wordEN": "alien",
+"questionPositions": [
+"0",
+"2",
+"3"
+],
+"wordCN": "陌生的",
+"userAnswer": "",
+"sysQuestionID": "T6001001",
+"score": "0",
+"audioUrl": "https://res-audio.langlib.com/wb/un/a/alien.mp3"
+},
+{
+"userQuestionID": "103452",
+"currStatus": "0",
+"sysAnswer": "alien",
+"symbol": "['elɪən]",
+"questionIdx": "4",
+"wordEN": "alien",
+"questionPositions": [
+"0",
+"2",
+"3"
+],
+"wordCN": "陌生的",
+"userAnswer": "",
+"sysQuestionID": "T6001001",
+"score": "0",
+"audioUrl": "https://res-audio.langlib.com/wb/un/a/alien.mp3"
+},
+{
+"userQuestionID": "103452",
+"currStatus": "0",
+"sysAnswer": "alien",
+"symbol": "['elɪən]",
+"questionIdx": "5",
+"wordEN": "alien",
+"questionPositions": [
+"0",
+"2",
+"3"
+],
+"wordCN": "陌生的",
+"userAnswer": "",
+"sysQuestionID": "T6001001",
+"score": "0",
+"audioUrl": "https://res-audio.langlib.com/wb/un/a/alien.mp3"
+},
+{
+"userQuestionID": "103452",
+"currStatus": "0",
+"sysAnswer": "alien",
+"symbol": "['elɪən]",
+"questionIdx": "6",
+"wordEN": "alien",
+"questionPositions": [
+"0",
+"2",
+"3"
+],
+"wordCN": "陌生的",
+"userAnswer": "",
+"sysQuestionID": "T6001001",
+"score": "0",
+"audioUrl": "https://res-audio.langlib.com/wb/un/a/alien.mp3"
+},
+{
+"userQuestionID": "103452",
+"currStatus": "0",
+"sysAnswer": "alien",
+"symbol": "['elɪən]",
+"questionIdx": "7",
+"wordEN": "alien",
+"questionPositions": [
+"0",
+"2",
+"3"
+],
+"wordCN": "陌生的",
+"userAnswer": "",
+"sysQuestionID": "T6001001",
+"score": "0",
+"audioUrl": "https://res-audio.langlib.com/wb/un/a/alien.mp3"
+},
+{
+"userQuestionID": "103452",
+"currStatus": "0",
+"sysAnswer": "alien",
+"symbol": "['elɪən]",
+"questionIdx": "8",
+"wordEN": "alien",
+"questionPositions": [
+"0",
+"2",
+"3"
+],
+"wordCN": "陌生的",
+"userAnswer": "",
+"sysQuestionID": "T6001001",
+"score": "0",
+"audioUrl": "https://res-audio.langlib.com/wb/un/a/alien.mp3"
+},
+{
+"userQuestionID": "103452",
+"currStatus": "0",
+"sysAnswer": "alien",
+"symbol": "['elɪən]",
+"questionIdx": "9",
+"wordEN": "alien",
+"questionPositions": [
+"0",
+"2",
+"3"
+],
+"wordCN": "陌生的",
+"userAnswer": "",
+"sysQuestionID": "T6001001",
+"score": "0",
+"audioUrl": "https://res-audio.langlib.com/wb/un/a/alien.mp3"
+}
+]
+},
+"code": "0"
+}
